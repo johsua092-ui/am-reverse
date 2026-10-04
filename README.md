@@ -1,25 +1,4 @@
-<div align="center">
 
-# ⚡ AlightMotion Premium Activate
-
-**unofficial alight motion premium activator**
-
-*reverse engineered — cli & web, no ads, no tracking*
-
-**live:** [am.neonode.my.id](https://am.neonode.my.id)
-
-<img src="https://img.shields.io/badge/status-unofficial-orange" alt="">
-<img src="https://img.shields.io/badge/reverse--engineering-deep-red" alt="">
-<img src="https://img.shields.io/badge/node-18%2B-green" alt="">
-
-**team reverse — neo:** ansari • zenno
-
-</div>
-
-> ⚠️ **UNOFFICIAL — bukan alat resmi dari Alight Creative.**
-> Dibuat murni dari **reverse engineering mendalam** terhadap aplikasi Android Alight Motion: di-snip trafiknya, dibedah protokol Firebase Auth & endpoint `verifyPurchase`-nya, lalu di-reimplement jadi CLI + web. Kalau kelakuanmu kena ban, tanggung sendiri.
-
----
 
 ## apa yang bisa dilakuin
 
